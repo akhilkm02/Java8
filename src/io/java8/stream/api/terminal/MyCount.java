@@ -1,4 +1,4 @@
-package io.java8.stream.api.terminal.operations;
+package io.java8.stream.api.terminal;
 
 import io.java8.stream.api.helper.GetAllStudentDetails;
 import io.java8.stream.api.helper.Student;

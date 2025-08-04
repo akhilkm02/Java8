@@ -1,4 +1,4 @@
-package io.java8.stream.api.intermittend.operations;
+package io.java8.stream.api.intermittend;
 
 import io.java8.stream.api.helper.GetAllStudentDetails;
 import io.java8.stream.api.helper.Student;
